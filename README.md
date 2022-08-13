@@ -1,8 +1,8 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Ansuraj Jayshanker!](https://github.com/ANSURAJ1222/ANSURAJ1222/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+  ●I'm Student at Kalyan Polytechnic.
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -15,7 +15,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -40,6 +40,6 @@
 
 ---
 
-Credit: [Danushka2](https://github.com/Danushka2)
+Credit: [ANSURAJ1222](https://github.com/ANSURAJ1222)
 
 Last edited on: 30/06/2022
