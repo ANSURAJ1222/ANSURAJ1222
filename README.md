@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
 
 ##### GUI Development
 
@@ -50,9 +51,6 @@
 ![Unix](https://img.shields.io/badge/-Unix-000000?style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat)
 
-##### Bootstrap 5
-
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
 
 <br/>
 
