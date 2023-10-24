@@ -15,6 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
 ##### GUI Development
 
