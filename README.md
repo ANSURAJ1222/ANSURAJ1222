@@ -1,10 +1,11 @@
-### Hi there 👋 I'm [Ansuraj Jaishankar!](https://github.com/ANSURAJ1222/ANSURAJ1222/)
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-👨‍💻 I'm currently a student at Kalyan Polytechnic, with a strong passion for web development and GUI development.
+Hi there 👋 I'm Ansuraj Jaishankar!
 
-📚 I'm continually expanding my knowledge in both frontend and backend technologies. The learning never stops, and I'm always eager to explore new ideas.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />👨‍💻 I'm currently a student at Government Engineering College, Gandhinagar, pursuing a Bachelor's degree in Information Technology.
+Previously completed my Diploma in Computer Engineering at Kalyan Polytechnic.
 
-💪🏼 My future goals include mastering more technologies and never ceasing to create innovative solutions.
+📚 I'm continually expanding my knowledge in frontend, backend, GUI development, and DSA. Learning never stops, and I'm always eager to explore new technologies.
+
+💪🏼 My future goals include mastering full-stack development, cloud technologies, and never ceasing to create innovative solutions.
 
 ---
 
